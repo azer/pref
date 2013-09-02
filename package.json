@@ -1,0 +1,25 @@
+{
+  "name": "pref",
+  "version": "0.0.0",
+  "description": "Remember user preferences via LocalStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "user",
+    "ux",
+    "preference",
+    "client-side",
+    "options"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/preference.git",
+    "type": "git"
+  },
+  "author": "Azer Koculu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
